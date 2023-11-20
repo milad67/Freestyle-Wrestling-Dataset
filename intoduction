@@ -1,0 +1,26 @@
+# Freestyle Wrestling Action Recognition Dataset
+
+This repository contains a dataset of freestyle wrestling action recognition, which is a challenging and realistic scenario for evaluating the performance of different methods for action recognition in videos. Freestyle wrestling is a complex and dynamic sport that involves various techniques, such as throws, takedowns, reversals, and pins. The dataset consists of 210 video clips of seven wrestling actions performed by different wrestlers, along with the labels and the annotations. The dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Dataset Description
+
+The dataset contains 210 video clips of seven wrestling actions, each with 30 samples. 
+
+| Class ID | Technique name | #Samples |
+|:--------:|:--------------:|:--------:|
+| C1 | Hip headlock throw | 30 |
+| C2 | Single leg tackle | 30 |
+| C3 | Gut wrench or rolling Side sweep | 30 |
+| C4 | Arm spin | 30 |
+| C5 | Side sweep and over-under | 30 |
+| C6 | Ankle lace | 30 |
+| C7 | From head and arm | 30 |
+
+## Dataset Download
+
+
+## Dataset Citation
+
+please cite our paper:
+
+[Our paper citation]
