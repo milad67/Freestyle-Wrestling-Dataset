@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
-For any questions, please contact: [your-email@example.com]
+For any questions, please contact: milad.chessmaster@gmail.com
 
 ---
 **Note:** This is an academic research project. The dataset and code are provided for research purposes only.
