@@ -6,7 +6,7 @@ import numpy as np
 class Segmenter:
     def __init__(self, device='cuda'):
         self.device = device
-        # Using DeepLabV3 with ResNet101 backbone (closest standard to paper)
+        # Using DeepLabV3 with ResNet101 backbone
         self.model = models.segmentation.deeplabv3_resnet101(weights='DEFAULT').to(device)
         self.model.eval()
         self.preprocess = transforms.Compose([
